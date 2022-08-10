@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Данил Антошкин](https://up.htmlacademy.ru/adaptive/26/user/107895).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
 ---
 
