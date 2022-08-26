@@ -2,12 +2,13 @@
 .main-header {
   display: flex;
   box-sizing: border-box;
-  align-items: flex-start;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 /* Логотив в навигации */
 .main-header__logo {
-  margin-right: 25px;
+  margin-left: 47px;
   position: relative;
   width: 185px;
 }

@@ -1,0 +1,14 @@
+.intro {
+  background-color: #81B3D3;
+  background: url("../../img/intro-background-divider-mobile.svg"), url("../../img/intro-background-mobile.jpg");
+  background-repeat: no-repeat;
+  background-size: contain, auto;
+  background-position: bottom, top;
+}
+
+.intro__logo {
+  padding-top: 90px;
+  padding-bottom: 85px;
+  display: block;
+  margin: 0 auto;
+}
