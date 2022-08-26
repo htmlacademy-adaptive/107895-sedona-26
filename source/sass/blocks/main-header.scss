@@ -1,0 +1,18 @@
+/* Навигация */
+.main-header {
+  display: flex;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+
+/* Логотив в навигации */
+.main-header__logo {
+  margin-right: 25px;
+  position: relative;
+  width: 185px;
+}
+
+/* Картинка логотипа в навигации */
+.main-header__logo-image {
+  position: absolute;
+}
