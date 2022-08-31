@@ -1,0 +1,19 @@
+.copyright {
+  font: 400 14px/21px "PT Sans", "Arial", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.copyright__link {
+  text-decoration: none;
+  color: #000000;
+
+  &:hover {
+    color: #81b3d2;
+  }
+}
+
+.copyright__icon {
+  margin-left: 13px;
+  vertical-align: middle;
+}
