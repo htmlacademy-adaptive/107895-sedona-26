@@ -1,7 +1,7 @@
 .advantages {
   font: 400 14px/21px "PT Sans", "Arial", sans-serif;
   text-transform: uppercase;
-  color: #333333;
+  color: $text-color;
   padding-top: 32px;
   text-align: center;
 }
@@ -33,17 +33,17 @@
     left: 18px;
     right: 18px;
     top: 0;
-    border-top: 1px solid #d6d6d6;
+    border-top: 1px solid $benefit-border-color;
   }
 }
 
 .advantages__item-content {
   padding: 18px;
-  background-color: #eeeeee;
+  background-color: $benefit-background-color;
 
   .advantages__item--color & {
-    background-color: #81b3d2;
-    color: #ffffff;
+    background-color: $primary-background-color;
+    color: $primary-text-color;
     padding-top: 40px;
     padding-bottom: 32px;
   }
@@ -61,22 +61,4 @@
 
 .advantages__image {
   display: flex;
-}
-
-.recommendations {
-  padding: 1px 18px 22px;
-  margin: 0;
-  list-style: none;
-  text-transform: uppercase;
-  font: 400 14px/21px "PT Sans", "Arial", sans-serif;
-  color: #000000;
-  text-align: left;
-}
-
-.recommendations__title {
-  margin: 0 0 16px;
-}
-
-.recommendations__description {
-  margin: 16px 0 0;
 }

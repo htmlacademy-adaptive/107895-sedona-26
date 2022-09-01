@@ -1,9 +1,9 @@
 .like__count {
-  font: 700 12px/21px "PT Sans", "Arial", sans-serif;
-  color: #000000;
+  font: $subtitle-font;
+  color: $title-color;
 }
 
 .like__button {
   border: none;
-  background-color: #ffffff;
+  background-color: $primary-text-color;
 }

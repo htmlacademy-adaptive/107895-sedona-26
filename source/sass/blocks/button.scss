@@ -1,7 +1,7 @@
 .button {
   display: inline-block;
-  background-color: #e5e5e5;
-  color: #ffffff;
+  background-color: $border-color;
+  color: $primary-text-color;
   font: 700 21px/26px "PT Sans", "Arial", sans-serif;
   text-transform: uppercase;
   text-align: center;

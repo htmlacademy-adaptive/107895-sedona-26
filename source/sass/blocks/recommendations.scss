@@ -1,0 +1,17 @@
+.recommendations {
+  padding: 1px 18px 22px;
+  margin: 0;
+  list-style: none;
+  text-transform: uppercase;
+  font: $text-font;
+  color: $title-color;
+  text-align: left;
+}
+
+.recommendations__title {
+  margin: 0 0 16px;
+}
+
+.recommendations__description {
+  margin: 16px 0 0;
+}

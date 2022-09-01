@@ -2,8 +2,9 @@
 @import "./blocks/page__body.scss";
 @import "./blocks/main-header.scss";
 @import "./blocks/main-nav.scss";
-@import "./blocks/index.scss";
+@import "./blocks/intro.scss";
 @import "./blocks/advantages.scss";
+@import "./blocks/recommendations.scss";
 @import "./blocks/hotel-search.scss";
 @import "./blocks/map.scss";
 @import "./blocks/main-footer.scss";
@@ -14,5 +15,6 @@
 @import "./blocks/video.scss";
 @import "./blocks/form.scss";
 
+@import "./variables.scss";
 @import "./blocks/button.scss";
 @import "./blocks/visually-hidden.scss";

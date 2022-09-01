@@ -5,7 +5,7 @@
 }
 
 .gallery__item {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid $field-hover-background-color;
   padding: 24px 20px 25px;
 }
 
@@ -15,11 +15,11 @@
 
 .gallery__img-name {
   margin-top: 15px;
-  font: 700 12px/21px "PT Sans", "Arial", sans-serif;
+  font: $subtitle-font;
   text-transform: uppercase;
-  color: #000000;
+  color: $title-color;
 }
 
 .gallery__img-author {
-  font: 400 14px/21px "PT Sans", "Arial", sans-serif;
+  font: $text-font;
 }
